@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World! w/Continuous Intergration
+          Confirmed Working
         </a>
       </header>
     </div>
